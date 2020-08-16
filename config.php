@@ -36,7 +36,7 @@ $directus_user = ''; // Set user email and password only, if you need to access 
 $directus_password = ''; // If you store your code in a repo, consider using a masked environment variable here.
 
 // Base URL of your microsite.
-$the_page_url = 'https://YOURDOMAIN.com/';
+$the_page_url = 'https://cellashaving.com/';
 
 // PWA settings.
 $the_webapp_name = 'Put the name for the webapp here'; // Mind manifest.json too.
@@ -46,11 +46,11 @@ $the_theme_color = '#008c48'; // Mind manifest.json too.
 // Default page meta settings.
 // Can be partly overridden per page at the routing.
 $the_page_meta_defaults = array();
-$the_page_meta_defaults['title'] = 'Put your default page title here.';
+$the_page_meta_defaults['title'] = 'Test CellaShaving.';
 $the_page_meta_defaults['description'] = 'Put your default meta description here.';
 $the_page_meta_defaults['keywords'] = 'Keyword1, Keyword2, Keyword3, Up to 10';
-$the_page_meta_defaults['author'] = 'YOUR NAME';
-$the_page_meta_defaults['publisher'] = 'YOUR NAME';
+$the_page_meta_defaults['author'] = 'BG';
+$the_page_meta_defaults['publisher'] = 'BG';
 $the_page_meta_defaults['twitter'] = ''; // your twitter name (without any @)
 $the_page_meta_defaults['robots'] = 'index,follow';
 
