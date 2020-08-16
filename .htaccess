@@ -7,7 +7,7 @@
   Header set Strict-Transport-Security "max-age=31536000; includeSubDomains"
   Header set Referrer-Policy "no-referrer-when-downgrade"
 	# Put your domain here
-	Header set Access-Control-Allow-Origin "https://YOURDOMAIN.com/"
+	Header set Access-Control-Allow-Origin "https://www.cellashave.com/"
 	# Adjust to your needs. GET should be enough for simple landingpages. Sometimes, you might need 'GET, POST'.
 	Header set Access-Control-Allow-Methods "GET"
 	# Be careful here. Enabling it limits you on what third-party tools you can include on your page. The provided configuration is only an example.
