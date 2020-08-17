@@ -36,7 +36,7 @@ $directus_user = ''; // Set user email and password only, if you need to access 
 $directus_password = ''; // If you store your code in a repo, consider using a masked environment variable here.
 
 // Base URL of your microsite.
-$the_page_url = 'https://cellashave.com/';
+$the_page_url = 'https://arkoshave.com/';
 
 // PWA settings.
 $the_webapp_name = 'Put the name for the webapp here'; // Mind manifest.json too.
